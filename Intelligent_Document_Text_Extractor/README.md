@@ -1,4 +1,4 @@
-# Week 4 - Intelligent Document Text Extractor
+#  - Intelligent Document Text Extractor
 
 ## Project Overview
 This project extracts text from document images using Optical Character Recognition (OCR).
